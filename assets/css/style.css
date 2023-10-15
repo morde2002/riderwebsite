@@ -1074,7 +1074,7 @@ background: #181015 url(../images/bg_header.jpg) -320px -145px no-repeat;
 	/*background: url("../images/banner-bg.jpg") no-repeat;*/
 	background-size: cover;
 	position: relative;
-	border-bottom: 2px #FFDF00 solid;
+	border-bottom: 2px #1000ff solid;
 }
 .banner-container:before {
 position: absolute;
@@ -1201,7 +1201,7 @@ a.arrow-link:hover {
 	margin: 3px;
 	cursor: pointer;
 	box-shadow: 1px 1px 1px rgba(0,0,0,0.1) inset, 1px 1px 1px rgba(255,255,255,0.1);
-	border: 2px solid #FFDF00;
+	border: 2px solid #1000ff;
 }
 img, video, iframe, embed, object {
 	max-width: 100%;
@@ -1402,7 +1402,7 @@ left: 2px;
 }
 #contactUs .btn {
 	border-radius: 0px !important;
-	background: #FFDF00;
+	background: #1000ff;
 }
 .descrition {
 	min-height: 90px; 
@@ -1454,7 +1454,7 @@ color:#fff;
 	text-transform: uppercase;
 }
 #portfolio .filters li a, #portfolio .filters li a:hover, #portfolio .filters li a:focus {
-	color: #FFDF00;
+	color: #1000ff;
 }
 #portfolio .filters li a.active {
 	color:#fff !important;
@@ -1520,11 +1520,11 @@ nav#filter li {
 nav#filter a {
 	padding: 4px 12px;
 	line-height: 20px;
-	border: 1px solid #FFDF00;
+	border: 1px solid #1000ff;
 	text-decoration: none;
 }
 .current {
-	background: #FFDF00;
+	background: #1000ff;
 	color: #fff;
 } 
 .page-section.intro {
@@ -1611,7 +1611,7 @@ footer {
 .social a {
 	font-size: 32px;
 	margin: 0 10px;
-	color: #FFDF00;
+	color: #1000ff;
 }
 .contact ul li {
 	margin-bottom: 10px;
@@ -1674,7 +1674,7 @@ border-radius: 0px;
 border: 1px solid #2D2D2D;
 }
 footer .col.col-social-icons i:hover{
-color:#FFDF00;
+color:#1000ff;
 }
 footer input.form-control{
 	padding: 18px 10px;
@@ -2167,7 +2167,7 @@ nav#filter li {
 	transform: scale(1.1);
 }
 .flat .plan.featured:hover li.plan-name, .flat .plan:hover li.plan-name, .flat .plan.featured.plan-name {
-	background: #FFDF00 !important;
+	background: #1000ff !important;
 }
 .customNavigation {
 	display: none;
